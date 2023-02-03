@@ -1,0 +1,11 @@
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+.light {
+  background-color: #f4f3ee;
+  color: #333;
+}
+.image1{
+    height: 100%;
+}
