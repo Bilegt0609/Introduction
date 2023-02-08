@@ -59,7 +59,7 @@ export default function Header(props) {
         <Toolbar position="static" sx={{ backgroundColor: "#2b2d42", height:"70px" }}>
         <Container
           sx={{ flexGrow: 1, backgroundColor: "transparent", display: "flex" }}
-          maxWidth="md"
+          maxWidth="sm"
         >
           <IconButton
             color="inherit"
